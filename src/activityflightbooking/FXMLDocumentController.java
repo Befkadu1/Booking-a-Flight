@@ -50,7 +50,7 @@ public class FXMLDocumentController implements Initializable
     @FXML
     public String[] arraySource =
     {
-        "Lund", "Malmö", "Stockholm", "Berlin", "Paris", "Barcelona"
+        "Lund", "Malmo", "Stockholm", "Berlin", "Paris", "Barcelona"
     };
 
     Passangers passanger;
@@ -64,7 +64,7 @@ public class FXMLDocumentController implements Initializable
     
     public static String[] arrayDestination =
     {
-        "Lund", "Malmö", "Stockholm", "Berlin", "Paris", "Barcelona"
+        "Lund", "Malmo", "Stockholm", "Berlin", "Paris", "Barcelona"
     };
 
     @FXML
